@@ -17,23 +17,11 @@ Third-year B.Tech Computer Science and Engineering student at Christ University,
 **Project Intern - Agentic AI & Advanced LLM Systems**
 Winwire Technologies | April 2026 - June 2026
 
-- Mastered Agentic AI and RAG using Azure AI Foundry and Microsoft Copilot Studio, achieving 40% faster information retrieval
-- Deployed 5+ production-grade LLM applications leveraging LangChain frameworks with enterprise-grade error handling
-- Architected AI safety guardrails and compliance frameworks for 3+ production environments
-
 **Machine Learning Intern - Speech Recognition & NLP**
 Max Social Innovation | April 2025 - July 2026
 
-- Engineered neural network achieving 88% accuracy in processing atypical speech patterns using Python and NumPy
-- Optimized feature extraction pipeline with 15% precision improvement, enabling clinical-grade deployment
-- Coordinated validation across 200+ test samples with subject matter experts for accessibility compliance
-
 **Machine Learning Intern - Data Science & Model Development**
 Mesanite | December 2025 - February 2026
-
-- Engineered 4+ production ML models with 85%+ accuracy using advanced activation functions and optimization techniques
-- Refined data pipelines for 50K+ records, raising model confidence by 22% through intelligent feature selection
-- Established comprehensive validation frameworks reducing team onboarding time by 66%
 
 ---
 
