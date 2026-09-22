@@ -1,83 +1,119 @@
-# FREIDA RODRIGUES
+<div align="center">
 
-`computer science × intelligence × design`
+# `freida.exe`
 
-I build things that sit somewhere between **software, artificial intelligence, and human interaction.**
+### building things i don't fully understand yet.
 
-Currently exploring the space between **machine learning, generative AI, and agentic systems** — while figuring out how to turn ideas into things that actually work.
+<br>
 
----
+`03` — computer science
+`AI` — machine learning / genAI
+`BLR` — india
 
-### / CURRENTLY
+</div>
 
-**Building**
-AI systems, ML experiments, and the occasional idea that starts as
-*"wait... could we actually build this?"*
-
-**Learning**
-Machine Learning · LLMs · RAG · Agentic AI · MLOps · Cloud AI
-
-**Interested in**
-Intelligent systems · Speech AI · Human-centered AI · AI products
+<br>
 
 ---
 
-### / STACK
+```console
+$ whoami
 
-```text
-Python        ████████████████████
-C / C++       ███████████████
-JavaScript    ████████████
-Machine Learning
-Generative AI
-RAG
-Agentic AI
-Azure
-Git
+freida
+
+$ cat interests.txt
+
+machine learning
+generative ai
+agentic systems
+speech intelligence
+human × computer interaction
+creative technology
 ```
 
 ---
 
-### / THINGS I'VE BUILT
-
-**Adaptive Speech Recognition**
-Exploring how speech recognition can be adapted for atypical speech patterns in children.
-
-`Whisper · PyTorch · LoRA · PEFT · NLP`
-
-**Text-to-SQL Agent**
-A natural-language interface that translates questions into SQL, executes them, validates the result, and refines failed queries.
-
-`Python · LLMs · SQL · Agents`
-
-**More experiments →**
-ML · GenAI · RAG · AI Safety · Web · UI/UX
-
----
-
-### / EXPERIENCE
-
-**WinWire Technologies**
-Generative AI · Agentic AI · RAG · Microsoft Copilot Studio · MLOps · LLMOps · AI Safety
-
----
-
-### / THE DIRECTION
-
-I'm working towards becoming an **ML Engineer focused on Generative and Agentic AI**.
-
-Not just building models.
-
-Building systems around them.
-
----
-
-### / ELSEWHERE
-
-[LinkedIn](YOUR_LINKEDIN) · [GitHub](YOUR_GITHUB)
-
----
+### currently in my lab
 
 ```text
-learn → build → break → understand → rebuild
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   whisper        →  speech recognition                   │
+│   llms           →  making machines reason               │
+│   rag            →  giving them memory                  │
+│   agents         →  giving them autonomy                 │
+│   mlops          →  making experiments survive reality  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
+
+I'm a CSE student interested in the part of technology where
+**code starts becoming intelligence.**
+
+Right now I'm going deeper into **Machine Learning, Generative AI and Agentic AI** — building, breaking, debugging, and rebuilding things along the way.
+
+---
+
+### things i've touched
+
+```text
+LANGUAGES
+Python · C · C++ · JavaScript · HTML · CSS
+
+AI / ML
+PyTorch · Whisper · LoRA · PEFT
+LLMs · RAG · NLP · Speech AI
+
+CLOUD / TOOLS
+Azure · Git · GitHub · VS Code
+Figma · Canva
+```
+
+---
+
+### projects worth opening
+
+**01 — adaptive speech recognition**
+
+> teaching an ASR system to better understand atypical speech patterns.
+
+`Whisper / PyTorch / LoRA / PEFT`
+
+**02 — text → SQL agent**
+
+> ask a database a question in plain English.
+> let an agent figure out the rest.
+
+`Python / LLMs / SQL / Agentic AI`
+
+**03 — more experiments**
+
+> currently somewhere between an idea, a notebook,
+> and a suspicious number of debugging sessions.
+
+---
+
+### outside the terminal
+
+I like **building interfaces, designing things, baking, playing guitar, crocheting, and travelling.**
+
+Which probably explains why my repositories occasionally look like they were made by three different people.
+
+---
+
+<div align="center">
+
+### `STATUS: BUILDING`
+
+```text
+[██████████████████░░] 90%
+
+```
+
+**learn → build → break → understand → repeat**
+
+<br>
+
+`github.com/YOUR_USERNAME`
+
+</div>
