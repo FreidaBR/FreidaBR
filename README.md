@@ -1,79 +1,83 @@
-# Freida B Rodrigues
+# FREIDA RODRIGUES
 
-Machine Learning Engineer | AI Specialist | Full-Stack Developer
+`computer science × intelligence × design`
 
-[LinkedIn](https://www.linkedin.com/in/freida-rodrigues/) | [Portfolio](https://freidabr.github.io/Portfolio_Main/) | [Email](mailto:freidarodrigues04@email.com)
+I build things that sit somewhere between **software, artificial intelligence, and human interaction.**
 
----
-
-## About
-
-Third-year B.Tech Computer Science and Engineering student at Christ University, Bangalore, specializing in Machine Learning and Artificial Intelligence. Experienced in building real-time ML applications, LLM systems, and production-ready AI solutions. GPA: 3.55-3.75 | Expected Graduation: July 2028
+Currently exploring the space between **machine learning, generative AI, and agentic systems** — while figuring out how to turn ideas into things that actually work.
 
 ---
 
-## Experience
+### / CURRENTLY
 
-**Project Intern - Agentic AI & Advanced LLM Systems**
-Winwire Technologies | April 2026 - June 2026
+**Building**
+AI systems, ML experiments, and the occasional idea that starts as
+*"wait... could we actually build this?"*
 
-**Machine Learning Intern - Speech Recognition & NLP**
-Max Social Innovation | April 2025 - July 2026
+**Learning**
+Machine Learning · LLMs · RAG · Agentic AI · MLOps · Cloud AI
 
-**Machine Learning Intern - Data Science & Model Development**
-Mesanite | December 2025 - February 2026
-
----
-
-## Projects
-
-**Specialized Speech Recognition System**
-Neural network achieving 88% accuracy in recognizing atypical speech patterns. Implemented Fourier analysis and feature engineering, improving precision by 15% for clinical deployment. 
-Tech: Python, NumPy, Signal Processing, TensorFlow
-
-**Intelligent Prompt Engineering Pipeline**
-Automated prompt enhancement system using QLoRA fine-tuning on DeepSeek-7B with integrated NLP. Reduces refinement cycles by 70% and processes 1000+ daily requests at <200ms latency.
-Tech: Python, QLoRA, DeepSeek-7B, LangChain, Flask
-
-**Modern Band Website Redesign**
-Responsive website redesign achieving 92% usability score. Modernized legacy codebase while preserving brand identity, improving page load speed by 40%.
-Tech: HTML, CSS, JavaScript, UI/UX Design
+**Interested in**
+Intelligent systems · Speech AI · Human-centered AI · AI products
 
 ---
 
-## Technical Skills
+### / STACK
 
-**Languages:** Python, HTML, CSS, JavaScript, SQL
-
-**ML & AI:** Model Training, NLP, Prompt Engineering, LLM Systems, Generative AI, Feature Engineering, Signal Processing
-
-**Frameworks:** LangChain, QLoRA, RAG, TensorFlow, PyTorch, scikit-learn, Flask
-
-**Tools:** Azure AI, Microsoft Copilot Studio, DeepSeek-7B, GitHub, Git, Jupyter
-
----
-
-## Education
-
-Christ University - B.Tech Computer Science and Engineering (Expected July 2028) | GPA: 3.55-3.75
+```text
+Python        ████████████████████
+C / C++       ███████████████
+JavaScript    ████████████
+Machine Learning
+Generative AI
+RAG
+Agentic AI
+Azure
+Git
+```
 
 ---
 
-## Certifications
+### / THINGS I'VE BUILT
 
-- UI/UX for Beginners - Great Learning (August 2023)
-- Web Development Specialization - Udemy (July 2024)
-- Agentic AI & RAG Training - Winwire Technologies (June 2026)
-- LangChain Framework Training - Winwire Technologies (June 2026)
+**Adaptive Speech Recognition**
+Exploring how speech recognition can be adapted for atypical speech patterns in children.
+
+`Whisper · PyTorch · LoRA · PEFT · NLP`
+
+**Text-to-SQL Agent**
+A natural-language interface that translates questions into SQL, executes them, validates the result, and refines failed queries.
+
+`Python · LLMs · SQL · Agents`
+
+**More experiments →**
+ML · GenAI · RAG · AI Safety · Web · UI/UX
 
 ---
 
-## Leadership
+### / EXPERIENCE
 
-- Head, SDG CELL - Organized student-led projects focused on UN Sustainable Development Goals
-- Member, CSA Social Entrepreneurship Club - Participated in social impact initiatives
-- Member, CSE Media Team - Content creation and event coverage
+**WinWire Technologies**
+Generative AI · Agentic AI · RAG · Microsoft Copilot Studio · MLOps · LLMOps · AI Safety
 
 ---
 
-Connect: [LinkedIn](https://www.linkedin.com/in/freida-rodrigues/) | [Email](mailto:freidarodrigues04@email.com) | [Portfolio](https://freidabr.github.io/Portfolio_Main/)
+### / THE DIRECTION
+
+I'm working towards becoming an **ML Engineer focused on Generative and Agentic AI**.
+
+Not just building models.
+
+Building systems around them.
+
+---
+
+### / ELSEWHERE
+
+[LinkedIn](YOUR_LINKEDIN) · [GitHub](YOUR_GITHUB)
+
+---
+
+```text
+learn → build → break → understand → rebuild
+```
