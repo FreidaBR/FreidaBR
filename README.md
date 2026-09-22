@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/FreidaBR">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=27&duration=2800&pause=1400&color=B0B0B0&center=true&vCenter=true&width=900&height=75&lines=FREIDA+RODRIGUES" alt="Freida Rodrigues"/>
 </a>
 
@@ -12,15 +12,15 @@
 
 <br>
 
-<a href="YOUR-LINKEDIN-URL">
+<a href="https://www.linkedin.com/in/freida-rodrigues/">
 <img src="https://img.shields.io/badge/LINKEDIN-BE4D42?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR-EMAIL">
+<a href="mailto:freidabrodrigues04@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-242424?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/FreidaBR">
 <img src="https://img.shields.io/badge/GITHUB-242424?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
