@@ -1,119 +1,144 @@
 <div align="center">
 
-# `freida.exe`
-
-### building things i don't fully understand yet.
-
-<br>
-
-`03` — computer science
-`AI` — machine learning / genAI
-`BLR` — india
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:991B1B,100:BE4D42&height=180&section=header&text=Freida%20Rodrigues&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58&descSize=16" />
 
 </div>
 
 <br>
 
----
+<div align="center">
 
-```console
-$ whoami
+### `Building intelligent systems, one experiment at a time.`
 
-freida
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)](YOUR_GITHUB)
 
-$ cat interests.txt
-
-machine learning
-generative ai
-agentic systems
-speech intelligence
-human × computer interaction
-creative technology
-```
+</div>
 
 ---
 
-### currently in my lab
+## About
+
+I'm **Freida**, a third-year Computer Science & Engineering student exploring the intersection of **Machine Learning, Generative AI, and Agentic AI**.
+
+I enjoy building systems that go beyond simple applications — from experimenting with **speech recognition and LLMs** to exploring **RAG, AI agents, cloud AI, and responsible AI**.
+
+Currently focused on becoming a stronger **ML Engineer** and turning research ideas into working systems.
+
+---
+
+## What I'm working with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,pytorch,tensorflow,git,github,vscode,figma,azure" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Machine Learning` · `Generative AI` · `LLMs` · `RAG` · `Agentic AI`
+`NLP` · `Speech AI` · `MLOps` · `LLMOps` · `Azure AI`
+
+</div>
+
+---
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### Adaptive Speech Recognition
+
+Exploring how ASR systems can be adapted to better understand **atypical speech patterns in children**.
+
+**Stack**
+
+`Python` `Whisper` `PyTorch`
+`LoRA` `PEFT` `Speech Processing`
+
+</td>
+
+<td width="50%">
+
+### Text-to-SQL Agent
+
+An agent that converts **natural language → SQL**, executes queries, validates results, and refines failed queries.
+
+**Stack**
+
+`Python` `LLMs` `SQL`
+`Agentic AI` `Prompt Engineering`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Currently Learning
+
+<div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   whisper        →  speech recognition                   │
-│   llms           →  making machines reason               │
-│   rag            →  giving them memory                  │
-│   agents         →  giving them autonomy                 │
-│   mlops          →  making experiments survive reality  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+Machine Learning
+       ↓
+Generative AI
+       ↓
+LLMs + RAG
+       ↓
+Agentic AI
+       ↓
+MLOps / LLMOps
+       ↓
+Production AI
 ```
 
-I'm a CSE student interested in the part of technology where
-**code starts becoming intelligence.**
-
-Right now I'm going deeper into **Machine Learning, Generative AI and Agentic AI** — building, breaking, debugging, and rebuilding things along the way.
+</div>
 
 ---
 
-### things i've touched
+## Experience
 
-```text
-LANGUAGES
-Python · C · C++ · JavaScript · HTML · CSS
+**WinWire Technologies**
 
-AI / ML
-PyTorch · Whisper · LoRA · PEFT
-LLMs · RAG · NLP · Speech AI
-
-CLOUD / TOOLS
-Azure · Git · GitHub · VS Code
-Figma · Canva
-```
+Generative AI · Agentic AI · RAG · Microsoft Copilot Studio
+MLOps · LLMOps · AI Safety · Guardrails · Azure Content Filters
 
 ---
 
-### projects worth opening
+## GitHub Activity
 
-**01 — adaptive speech recognition**
+<div align="center">
 
-> teaching an ASR system to better understand atypical speech patterns.
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=BE4D42&icon_color=BE4D42&text_color=777777" height="170"/>
 
-`Whisper / PyTorch / LoRA / PEFT`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=BE4D42&text_color=777777" height="170"/>
 
-**02 — text → SQL agent**
+</div>
 
-> ask a database a question in plain English.
-> let an agent figure out the rest.
+<br>
 
-`Python / LLMs / SQL / Agentic AI`
+<div align="center">
 
-**03 — more experiments**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=FFFFFF00&ring=BE4D42&fire=BE4D42&currStreakLabel=BE4D42" />
 
-> currently somewhere between an idea, a notebook,
-> and a suspicious number of debugging sessions.
-
----
-
-### outside the terminal
-
-I like **building interfaces, designing things, baking, playing guitar, crocheting, and travelling.**
-
-Which probably explains why my repositories occasionally look like they were made by three different people.
+</div>
 
 ---
 
 <div align="center">
 
-### `STATUS: BUILDING`
+### Let's build something interesting.
 
-```text
-[██████████████████░░] 90%
-
-```
-
-**learn → build → break → understand → repeat**
+`Machine Learning` · `GenAI` · `Agentic AI` · `Creative Technology`
 
 <br>
 
-`github.com/YOUR_USERNAME`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE4D42,50:991B1B,100:7F1D1D&height=100&section=footer" />
 
 </div>
