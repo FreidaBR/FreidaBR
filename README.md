@@ -1,123 +1,209 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:991B1B,100:BE4D42&height=180&section=header&text=Freida%20Rodrigues&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58&descSize=16" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=27&duration=2800&pause=1400&color=BE4D42&center=true&vCenter=true&width=900&height=75&lines=FREIDA+RODRIGUES" alt="Freida Rodrigues"/>
+</a>
 
-</div>
+### `THIRD-YEAR COMPUTER SCIENCE & ENGINEERING`
 
-<br>
-
-<div align="center">
-
-### `Building intelligent systems, one experiment at a time.`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)](YOUR_GITHUB)
-
-</div>
-
----
-
-## About
-
-I'm **Freida**, a third-year Computer Science & Engineering student exploring the intersection of **Machine Learning, Generative AI, and Agentic AI**.
-
-I enjoy building systems that go beyond simple applications — from experimenting with **speech recognition and LLMs** to exploring **RAG, AI agents, cloud AI, and responsible AI**.
-
-Currently focused on becoming a stronger **ML Engineer** and turning research ideas into working systems.
-
----
-
-## What I'm working with
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,pytorch,tensorflow,git,github,vscode,figma,azure" />
-
-</div>
+**Machine Learning · Generative AI · Agentic AI**
 
 <br>
 
-<div align="center">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-BE4D42?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-242424?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-242424?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-`Machine Learning` · `Generative AI` · `LLMs` · `RAG` · `Agentic AI`
-`NLP` · `Speech AI` · `MLOps` · `LLMOps` · `Azure AI`
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=BE4D42&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## Featured Work
+## `01 / ABOUT`
+
+I'm **Freida Rodrigues**, a third-year Computer Science & Engineering student exploring the space between **machine learning, generative AI and intelligent systems**.
+
+My current goal is to grow into an **ML Engineer specializing in Generative AI and Agentic AI**.
+
+I like understanding what happens beyond the model — how an idea becomes a system, how systems interact with data, and how AI can be made more useful, reliable and human-centered.
+
+Currently building, experimenting and learning across:
+
+```text
+Machine Learning       → model building & experimentation
+Generative AI          → LLMs & intelligent applications
+Agentic AI             → autonomous workflows & AI agents
+RAG                    → grounding LLMs with external knowledge
+Speech AI              → recognition of atypical speech patterns
+Cloud AI               → Azure-based AI systems
+MLOps / LLMOps         → taking AI beyond the notebook
+```
+
+---
+
+## `02 / WHAT I'M BUILDING`
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### Adaptive Speech Recognition
 
-Exploring how ASR systems can be adapted to better understand **atypical speech patterns in children**.
+An ongoing speech-AI project exploring how automatic speech recognition can better handle **atypical speech patterns in children**.
 
-**Stack**
+The project involves experimenting with **Whisper, speech processing, fine-tuning and parameter-efficient learning**.
 
-`Python` `Whisper` `PyTorch`
-`LoRA` `PEFT` `Speech Processing`
+```text
+Whisper
+PyTorch
+LoRA / PEFT
+Speech Processing
+NLP
+```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Text-to-SQL Agent
 
-An agent that converts **natural language → SQL**, executes queries, validates results, and refines failed queries.
+An AI agent designed to turn **natural-language questions into SQL**, execute them against a database, validate the generated queries and refine them when necessary.
 
-**Stack**
-
-`Python` `LLMs` `SQL`
-`Agentic AI` `Prompt Engineering`
+```text
+Python
+LLMs
+SQL
+Prompt Engineering
+Agentic AI
+```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Currently Learning
+## `03 / EXPERIENCE`
+
+### WinWire Technologies
+
+**Generative AI & Agentic AI Internship**
+
+Worked across a range of AI technologies and concepts including:
+
+```text
+Python
+Generative AI
+Agentic AI
+Retrieval-Augmented Generation
+Microsoft Copilot Studio
+Azure AI
+MLOps
+LLMOps
+AI Safety & Governance
+Guardrails
+Azure Content Filters
+```
+
+The experience helped me move from simply learning AI concepts to thinking about **how AI systems are actually designed and deployed**.
+
+---
+
+## `04 / TECHNOLOGIES`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css"/>
+
+<br><br>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<br><br>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,azure"/>
+
+<br><br>
+
+`Machine Learning` · `NLP` · `Speech AI` · `LLMs`
+`RAG` · `LoRA` · `PEFT` · `Agentic AI`
+`Azure OpenAI` · `Azure AI Foundry` · `Copilot Studio`
+
+</div>
+
+---
+
+## `05 / CURRENTLY LEARNING`
 
 <div align="center">
 
 ```text
-Machine Learning
-       ↓
-Generative AI
-       ↓
-LLMs + RAG
-       ↓
-Agentic AI
-       ↓
-MLOps / LLMOps
-       ↓
-Production AI
+              MACHINE LEARNING
+                     │
+                     ▼
+              GENERATIVE AI
+                     │
+                     ▼
+                LLMs + RAG
+                     │
+                     ▼
+                AGENTIC AI
+                     │
+                     ▼
+               MLOps / LLMOps
+                     │
+                     ▼
+             PRODUCTION AI SYSTEMS
 ```
 
 </div>
 
+I'm particularly interested in the transition from:
+
+> **"I trained a model."**
+
+to
+
+> **"I built a system that uses intelligence to solve a real problem."**
+
 ---
 
-## Experience
+## `06 / BEYOND CODE`
 
-**WinWire Technologies**
+Technology isn't the only thing I enjoy building.
 
-Generative AI · Agentic AI · RAG · Microsoft Copilot Studio
-MLOps · LLMOps · AI Safety · Guardrails · Azure Content Filters
+Outside development, I spend time with **UI/UX, design, baking, guitar, crocheting and travelling**.
+
+That mix of engineering and creativity is something I want to carry into the products I build.
 
 ---
 
-## GitHub Activity
+## `07 / GITHUB`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=BE4D42&icon_color=BE4D42&text_color=777777" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=BE4D42&icon_color=BE4D42&text_color=777777&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=BE4D42&text_color=777777" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=BE4D42&text_color=777777"/>
 
 </div>
 
@@ -125,7 +211,17 @@ MLOps · LLMOps · AI Safety · Guardrails · Azure Content Filters
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=FFFFFF00&ring=BE4D42&fire=BE4D42&currStreakLabel=BE4D42" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=FFFFFF00&ring=BE4D42&fire=BE4D42&currStreakLabel=BE4D42&sideLabels=777777&dates=777777"/>
+
+</div>
+
+---
+
+## `08 / ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=777777&line=BE4D42&point=BE4D42&area=true&hide_border=true&radius=8"/>
 
 </div>
 
@@ -133,12 +229,18 @@ MLOps · LLMOps · AI Safety · Guardrails · Azure Content Filters
 
 <div align="center">
 
-### Let's build something interesting.
-
-`Machine Learning` · `GenAI` · `Agentic AI` · `Creative Technology`
+### `BUILD · BREAK · LEARN · REBUILD`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE4D42,50:991B1B,100:7F1D1D&height=100&section=footer" />
+**Always curious. Always building.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=BE4D42&height=2&section=footer&width=900"/>
+
+<br>
+
+`FREIDA RODRIGUES` · `2026`
 
 </div>
